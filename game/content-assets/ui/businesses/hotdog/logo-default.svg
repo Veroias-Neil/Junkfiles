@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Default Hot Dog Stand logo">
+  <rect width="256" height="256" rx="28" fill="#17121c"/>
+  <rect x="28" y="44" width="200" height="168" rx="22" fill="#24182f" stroke="#5b367a" stroke-width="4"/>
+  <path d="M58 132c0-31 25-56 56-56h28c31 0 56 25 56 56s-25 56-56 56h-28c-31 0-56-25-56-56Z" fill="#f3c35d"/>
+  <path d="M74 132c0-22 18-40 40-40h28c22 0 40 18 40 40s-18 40-40 40h-28c-22 0-40-18-40-40Z" fill="#d45145"/>
+  <path d="M83 130c17-20 31 18 48-2 17-21 31 17 47-4" fill="none" stroke="#ffe178" stroke-width="9" stroke-linecap="round"/>
+  <text x="128" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#f7f1ff">HOT DOG</text>
+  <text x="128" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#b891ff">STAND</text>
+</svg>
